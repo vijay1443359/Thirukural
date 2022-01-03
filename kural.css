@@ -1,0 +1,25 @@
+body{
+    background-image: url('1563043973283_0..webp');
+    background-repeat: no-repeat;
+    background-size: 1440px 1100px;
+    
+}
+.maindiv{
+    text-align: center;
+    margin-top: 130px;
+    background-color: rgb(114, 138, 138);
+    height: 150px;
+}
+.incls{
+    background-color: rgb(114, 138, 138);
+    height: 250px;
+}
+.kural{
+    font-size: 20px;
+}
+#submit{
+    background-color: rgb(54, 56, 56);
+}
+.title{
+    font-family: 'Playfair Display', serif;
+}
